@@ -223,6 +223,7 @@ footer {
 @media screen and (max-width: 1020px) {
     header {
         background-size: auto 100%;
+        background-attachment: scroll;
     }
 }
 
